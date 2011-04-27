@@ -6,7 +6,7 @@ Currently implemented in my set up:
 
   Changed from Bash to ZSH
 
-  Installed iTerm2 Mac OS X Terminal Emulator
+  Installed iTerm2 Mac OS X Terminal Emulator http://code.google.com/p/iterm2/downloads/list
 
   Installed the BashMarks script for folder navigation:
     https://github.com/huyng/bashmarks
