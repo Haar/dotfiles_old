@@ -1,7 +1,7 @@
 #MySQL
 export PATH=$PATH:/usr/local/mysql/bin
 #Bashmarks
-source ~/.local/bin/bashmarks.sh
+source ~/.bin/bashmarks.sh
 #SWI Prolog
 PATH=$PATH:/opt/local/bin
 #JRuby
